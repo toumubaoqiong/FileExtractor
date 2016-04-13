@@ -2,7 +2,7 @@
 调用jni解压常用压缩格式的文件
 # Before Build
 由于jni是从eclipse项目中导入过来的，所以需要进行下配置：
-1、在build.gradle的android中加入一下代码：
+<div>1、在build.gradle的android中加入一下代码：</div>
 <div>
 	<pre code_snippet_id="1646367" snippet_file_name="blog_20160413_1_7584301" name="code" class="java"> sourceSets {
         main {
